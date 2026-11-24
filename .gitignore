@@ -1,0 +1,8 @@
+# CMake build output
+/build/
+
+# Local CMake preset overrides
+/CMakeUserPresets.json
+
+# VS Code workspace settings
+/.vscode/
